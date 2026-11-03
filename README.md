@@ -1,5 +1,5 @@
 <!-- Hero card: clicking it opens openoffensive.ai -->
-<a href="https://openoffensive.ai"><img src="assets/hero.svg" width="100%" alt="Ifthikar Ali: full-stack developer with a security focus. Now building OpenOffensive.ai." /></a>
+<a href="https://openoffensive.ai"><img src="hero.svg" width="100%" alt="Ifthikar Ali: full-stack developer with a security focus. Now building OpenOffensive.ai." /></a>
 
 <p align="center">
   <picture>
@@ -9,12 +9,12 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ifthikar-seyed-5946363a5/"><img src="assets/btn-linkedin.svg" height="44" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/ifthikar-seyed-5946363a5/"><img src="btn-linkedin.svg" height="44" alt="LinkedIn" /></a>
   &nbsp;
-  <a href="https://openoffensive.ai"><img src="assets/btn-openoffensive.svg" height="44" alt="OpenOffensive.ai" /></a>
+  <a href="https://openoffensive.ai"><img src="btn-openoffensive.svg" height="44" alt="OpenOffensive.ai" /></a>
 </p>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ### About
 
@@ -29,7 +29,7 @@ These days I'm focused on agentic security testing and hands-on offensive securi
 
 ### Stack
 
-<img src="assets/stack.svg" width="100%" alt="Backend: Python, Django, FastAPI, Node.js. Frontend and mobile: JavaScript, Vue, React, Flutter. Cloud and testing: AWS, Playwright." />
+<img src="stack.svg" width="100%" alt="Backend: Python, Django, FastAPI, Node.js. Frontend and mobile: JavaScript, Vue, React, Flutter. Cloud and testing: AWS, Playwright." />
 
 ### Activity
 
@@ -47,4 +47,4 @@ These days I'm focused on agentic security testing and hands-on offensive securi
   </picture>
 </p>
 
-<img src="assets/footer.svg" width="100%" alt="" />
+<img src="footer.svg" width="100%" alt="" />
