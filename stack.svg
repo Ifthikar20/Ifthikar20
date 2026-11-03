@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="204" viewBox="0 0 820 204" role="img" aria-labelledby="stack-title">
+  <title id="stack-title">Backend: Python, Django, FastAPI, Node.js. Frontend and mobile: JavaScript, Vue, React, Flutter. Cloud and testing: AWS, Playwright.</title>
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2B2760"/>
+      <stop offset="1" stop-color="#191731"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.75" y="0.75" width="818.5" height="202.5" rx="20" fill="url(#panel)" stroke="#FFFFFF" stroke-opacity="0.08" stroke-width="1.5"/>
+
+  <g font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif">
+    <!-- Row labels -->
+    <g font-size="12.5" font-weight="600" letter-spacing="1.2" fill="#A9A1CC">
+      <text x="30" y="52.5">BACKEND</text>
+      <text x="30" y="106.5">FRONTEND &amp; MOBILE</text>
+      <text x="30" y="160.5">CLOUD &amp; TESTING</text>
+    </g>
+
+    <!-- Tags -->
+    <g font-size="16" font-weight="500" fill="#F1EEFC">
+      <!-- Row 1: backend -->
+      <g transform="translate(212 28)">
+        <rect x="0.5" y="0.5" width="107" height="39" rx="19.5" fill="#FFFFFF" fill-opacity="0.07" stroke="#FFFFFF" stroke-opacity="0.16"/>
+        <circle cx="18" cy="20" r="3" fill="#C4B5FD"/>
+        <text x="31" y="25.8">Python</text>
+      </g>
+      <g transform="translate(330 28)">
+        <rect x="0.5" y="0.5" width="106" height="39" rx="19.5" fill="#FFFFFF" fill-opacity="0.07" stroke="#FFFFFF" stroke-opacity="0.16"/>
+        <circle cx="18" cy="20" r="3" fill="#C4B5FD"/>
+        <text x="31" y="25.8">Django</text>
+      </g>
+      <g transform="translate(447 28)">
+        <rect x="0.5" y="0.5" width="111" height="39" rx="19.5" fill="#FFFFFF" fill-opacity="0.07" stroke="#FFFFFF" stroke-opacity="0.16"/>
+        <circle cx="18" cy="20" r="3" fill="#C4B5FD"/>
+        <text x="31" y="25.8">FastAPI</text>
+      </g>
+      <g transform="translate(569 28)">
+        <rect x="0.5" y="0.5" width="111" height="39" rx="19.5" fill="#FFFFFF" fill-opacity="0.07" stroke="#FFFFFF" stroke-opacity="0.16"/>
+        <circle cx="18" cy="20" r="3" fill="#C4B5FD"/>
+        <text x="31" y="25.8">Node.js</text>
+      </g>
+
+      <!-- Row 2: frontend & mobile -->
+      <g transform="translate(212 82)">
+        <rect x="0.5" y="0.5" width="134" height="39" rx="19.5" fill="#FFFFFF" fill-opacity="0.07" stroke="#FFFFFF" stroke-opacity="0.16"/>
+        <circle cx="18" cy="20" r="3" fill="#C4B5FD"/>
+        <text x="31" y="25.8">JavaScript</text>
+      </g>
+      <g transform="translate(357 82)">
+        <rect x="0.5" y="0.5" width="83" height="39" rx="19.5" fill="#FFFFFF" fill-opacity="0.07" stroke="#FFFFFF" stroke-opacity="0.16"/>
+        <circle cx="18" cy="20" r="3" fill="#C4B5FD"/>
+        <text x="31" y="25.8">Vue</text>
+      </g>
+      <g transform="translate(451 82)">
+        <rect x="0.5" y="0.5" width="96" height="39" rx="19.5" fill="#FFFFFF" fill-opacity="0.07" stroke="#FFFFFF" stroke-opacity="0.16"/>
+        <circle cx="18" cy="20" r="3" fill="#C4B5FD"/>
+        <text x="31" y="25.8">React</text>
+      </g>
+      <g transform="translate(558 82)">
+        <rect x="0.5" y="0.5" width="101" height="39" rx="19.5" fill="#FFFFFF" fill-opacity="0.07" stroke="#FFFFFF" stroke-opacity="0.16"/>
+        <circle cx="18" cy="20" r="3" fill="#C4B5FD"/>
+        <text x="31" y="25.8">Flutter</text>
+      </g>
+
+      <!-- Row 3: cloud & testing -->
+      <g transform="translate(212 136)">
+        <rect x="0.5" y="0.5" width="89" height="39" rx="19.5" fill="#FFFFFF" fill-opacity="0.07" stroke="#FFFFFF" stroke-opacity="0.16"/>
+        <circle cx="18" cy="20" r="3" fill="#D6C7A1"/>
+        <text x="31" y="25.8">AWS</text>
+      </g>
+      <g transform="translate(312 136)">
+        <rect x="0.5" y="0.5" width="133" height="39" rx="19.5" fill="#FFFFFF" fill-opacity="0.07" stroke="#FFFFFF" stroke-opacity="0.16"/>
+        <circle cx="18" cy="20" r="3" fill="#D6C7A1"/>
+        <text x="31" y="25.8">Playwright</text>
+      </g>
+    </g>
+  </g>
+</svg>
