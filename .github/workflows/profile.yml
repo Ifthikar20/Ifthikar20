@@ -31,14 +31,14 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?color_snake=#7C6BC4&color_dots=#ebedf0,#ddd6f5,#b9aae8,#8f78d6,#5d45b0
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#D6C7A1&color_dots=#161b22,#2e2a63,#4f4391,#7f6fc0,#c4b5fd
 
       - name: Generate stats card
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: 'username=${{ github.repository_owner }}&show_icons=true&hide_rank=true&hide_border=true&bg_color=0D1117&title_color=39D353&icon_color=26A641&text_color=C9D1D9'
+          options: 'username=${{ github.repository_owner }}&show_icons=true&hide_rank=true&hide_border=true&border_radius=16&bg_color=135,2B2760,191731&title_color=F1EEFC&icon_color=D6C7A1&text_color=CFC8E8'
           path: dist/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
