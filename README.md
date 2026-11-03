@@ -1,55 +1,50 @@
-<!-- Animated header (capsule-render "waving" type) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:26A641&height=200&text=Ifthikar%20Ali&fontColor=FFFFFF&fontSize=52&fontAlignY=35&animation=fadeIn&desc=Software%20Developer%20%C2%B7%20AppSec%20%C2%B7%20Cloud&descSize=18&descAlignY=60" width="100%" alt="Ifthikar Ali" />
+<!-- Hero card: clicking it opens openoffensive.ai -->
+<a href="https://openoffensive.ai"><img src="assets/hero.svg" width="100%" alt="Ifthikar Ali: full-stack developer with a security focus. Now building OpenOffensive.ai." /></a>
 
-<div align="center">
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?center=true&vCenter=true&font=Inter&weight=500&size=20&duration=2600&pause=1400&color=C4B5FD&width=520&height=44&lines=Shipping+secure%2C+full-stack+products;AWS+Certified+Solutions+Architect+%E2%80%93+Associate;Sharpening+offensive+skills+on+HackTheBox" />
+    <img src="https://readme-typing-svg.demolab.com?center=true&vCenter=true&font=Inter&weight=500&size=20&duration=2600&pause=1400&color=5B4B9A&width=520&height=44&lines=Shipping+secure%2C+full-stack+products;AWS+Certified+Solutions+Architect+%E2%80%93+Associate;Sharpening+offensive+skills+on+HackTheBox" alt="Shipping secure, full-stack products" />
+  </picture>
+</p>
 
-<!-- Typing intro (readme-typing-svg) -->
-<img src="https://readme-typing-svg.demolab.com?center=true&vCenter=true&font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=26A641&width=620&lines=Security-minded+full-stack+developer;Building+OpenOffensive.ai+%E2%80%94+AI-driven+AppSec;Python+%C2%B7+Django+%C2%B7+FastAPI+%C2%B7+Vue+%C2%B7+AWS;Sharpening+offensive+skills+on+HackTheBox" alt="Security-minded full-stack developer" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/ifthikar-seyed-5946363a5/"><img src="assets/btn-linkedin.svg" height="44" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="https://openoffensive.ai"><img src="assets/btn-openoffensive.svg" height="44" alt="OpenOffensive.ai" /></a>
+</p>
 
-<br />
+<img src="assets/divider.svg" width="100%" alt="" />
 
-<!-- ✏️ Replace YOUR-LINKEDIN and YOUR-MEDIUM-HANDLE (also in the About section below) -->
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://medium.com/@YOUR-MEDIUM-HANDLE"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-<!-- Optional: wrap this badge in a link to your Credly page so people can verify it -->
-<img src="https://img.shields.io/badge/AWS_Certified-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Certified Solutions Architect - Associate" />
+### About
 
-</div>
+Software developer at **Bank of America** · Information Technology & Systems (Cybersecurity) at **UT Dallas** · **AWS Certified Solutions Architect – Associate**
 
-### 👋 About me
+These days I'm focused on agentic security testing and hands-on offensive security.
 
-- 💼 Software Developer at **Bank of America**
-- 🎓 Information Technology & Systems, Cybersecurity concentration · **UT Dallas**
-- 🔐 Focused on application security and offensive testing
-- ✍️ I write about software and security on [Medium](https://medium.com/@YOUR-MEDIUM-HANDLE)
+### Building
 
-### 🔭 What I'm building
-
-- **[OpenOffensive.ai](https://openoffensive.ai)** — open-source (MIT) platform where AI agents run real security tools to test apps for injection, recon, and access-control flaws, with Markdown / JSON / SARIF reports
+- **[OpenOffensive.ai](https://openoffensive.ai)** — open-source, multi-agent security testing that runs inside an isolated container. Every finding is validated and ships with a CVSS score, a proof-of-concept, and a fix.
 - **[TutorNote](https://tutornote.ai)** — AI-powered note & study app · [Windows client](https://github.com/Ifthikar20/Tutornote-windows-app)
 
-### 🛠️ Tech I work with
+### Stack
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,django,fastapi,js,nodejs,vue,react,flutter,aws,playwright,git" alt="Python, Django, FastAPI, JavaScript, Node.js, Vue, React, Flutter, AWS, Playwright, Git" /></a>
+<img src="assets/stack.svg" width="100%" alt="Backend: Python, Django, FastAPI, Node.js. Frontend and mobile: JavaScript, Vue, React, Flutter. Cloud and testing: AWS, Playwright." />
 
-### 📊 GitHub stats
+### Activity
 
-<div align="center">
-  <!-- stats.svg is generated daily by .github/workflows/profile.yml -->
+<p align="center">
+  <!-- stats.svg is rebuilt daily by .github/workflows/profile.yml -->
   <img height="170" src="https://raw.githubusercontent.com/Ifthikar20/Ifthikar20/output/stats.svg" alt="GitHub stats" />
-  <img height="170" src="https://streak-stats.demolab.com?user=Ifthikar20&theme=dark&hide_border=true&background=0D1117&stroke=30363D&ring=26A641&fire=39D353&currStreakNum=C9D1D9&currStreakLabel=39D353&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E" alt="GitHub streak" />
-</div>
+  <img height="170" src="https://streak-stats.demolab.com?user=Ifthikar20&hide_border=true&border_radius=16&background=135,2B2760,191731&stroke=4A4478&ring=C4B5FD&fire=D6C7A1&currStreakNum=F1EEFC&currStreakLabel=C4B5FD&sideNums=F1EEFC&sideLabels=CFC8E8&dates=A9A1CC" alt="GitHub streak" />
+</p>
 
-<br />
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ifthikar20/Ifthikar20/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ifthikar20/Ifthikar20/output/github-snake.svg" />
+    <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/Ifthikar20/Ifthikar20/output/github-snake.svg" />
+  </picture>
+</p>
 
-<!-- Contribution snake, rebuilt daily by .github/workflows/profile.yml -->
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ifthikar20/Ifthikar20/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ifthikar20/Ifthikar20/output/github-snake.svg" />
-  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/Ifthikar20/Ifthikar20/output/github-snake.svg" />
-</picture>
-</div>
-
-<!-- Animated footer -->
-<img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:26A641,100:0D1117&height=110" width="100%" alt="" />
+<img src="assets/footer.svg" width="100%" alt="" />
