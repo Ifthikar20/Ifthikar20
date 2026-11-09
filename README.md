@@ -1,5 +1,5 @@
 <!-- Hero card: clicking it opens tutornote.ai -->
-<a href="https://tutornote.ai"><img src="banner.svg" width="100%" alt="Ifthikar Ali: full-stack developer with a security focus. Now building TutorNote.ai and Cansee.ai." /></a>
+<a href="https://tutornote.ai"><img src="hero.svg" width="100%" alt="Ifthikar Ali: full-stack developer with a security focus. Now building TutorNote.ai and Cansee.ai." /></a>
 
 <p align="center">
   <picture>
@@ -11,12 +11,12 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ifthikar-seyed-5946363a5/"><img src="btn-linkedin.svg" height="44" alt="LinkedIn" /></a>
   &nbsp;
-  <a href="https://tutornote.ai"><img src="btn-tutornote.svg" height="44" alt="TutorNote.ai" /></a>
+  <a href="https://tutornote.ai"><img src="btn-openoffensive.svg" height="44" alt="TutorNote.ai" /></a>
   &nbsp;
   <a href="https://cansee.ai"><img src="btn-cansee.svg" height="44" alt="Cansee.ai" /></a>
 </p>
 
-<img src="line.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ### About
 
@@ -32,7 +32,7 @@ These days I'm focused on building **TutorNote.ai** and **Cansee.ai**, two AI pr
 ### Stack
 
 <p align="center">
-  <img src="tech-stack.svg" width="820" alt="Backend: Python, Django, FastAPI, Node.js. Frontend and mobile: JavaScript, Vue, React, Flutter. Cloud: AWS. Testing: Playwright. CI/CD: GitHub Actions, Docker, Jenkins. Security: offensive testing, Hack The Box." />
+  <img src="stack.svg" width="820" alt="Backend: Python, Django, FastAPI, Node.js. Frontend and mobile: JavaScript, Vue, React, Flutter. Cloud: AWS. Testing: Playwright. CI/CD: GitHub Actions, Docker, Jenkins. Security: offensive testing, Hack The Box." />
 </p>
 
 **CI/CD:** I build pipelines that lint, test and containerize every push with **GitHub Actions** and **Docker**, run Playwright end-to-end suites before merge, and deploy to **AWS**. Even this profile runs on CI: a scheduled GitHub Actions workflow rebuilds the stats card every day.
