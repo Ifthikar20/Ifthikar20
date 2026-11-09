@@ -10,6 +10,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ifthikar-seyed-5946363a5/"><img src="btn-linkedin.svg" height="44" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="https://tutornote.ai"><img src="btn-tutornote.svg" height="44" alt="TutorNote.ai" /></a>
+  &nbsp;
+  <a href="https://cansee.ai"><img src="btn-cansee.svg" height="44" alt="Cansee.ai" /></a>
 </p>
 
 <img src="line.svg" width="100%" alt="" />
