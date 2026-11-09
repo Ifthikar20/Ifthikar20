@@ -1,5 +1,5 @@
-<!-- Hero card: clicking it opens openoffensive.ai -->
-<a href="https://openoffensive.ai"><img src="hero.svg" width="100%" alt="Ifthikar Ali: full-stack developer with a security focus. Now building OpenOffensive.ai." /></a>
+<!-- Hero card: clicking it opens tutornote.ai -->
+<a href="https://tutornote.ai"><img src="hero.svg" width="100%" alt="Ifthikar Ali: full-stack developer with a security focus. Now building TutorNote.ai and Turano.ai." /></a>
 
 <p align="center">
   <picture>
@@ -10,8 +10,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ifthikar-seyed-5946363a5/"><img src="btn-linkedin.svg" height="44" alt="LinkedIn" /></a>
-  &nbsp;
-  <a href="https://openoffensive.ai"><img src="btn-openoffensive.svg" height="44" alt="OpenOffensive.ai" /></a>
 </p>
 
 <img src="divider.svg" width="100%" alt="" />
@@ -24,8 +22,8 @@ These days I'm focused on agentic security testing and hands-on offensive securi
 
 ### Building
 
-- **[OpenOffensive.ai](https://openoffensive.ai)** — open-source, multi-agent security testing that runs inside an isolated container. Every finding is validated and ships with a CVSS score, a proof-of-concept, and a fix.
-- **[TutorNote](https://tutornote.ai)** — AI-powered note & study app · [Windows client](https://github.com/Ifthikar20/Tutornote-windows-app)
+- **[TutorNote.ai](https://tutornote.ai)** — AI-powered note & study app · [Windows client](https://github.com/Ifthikar20/Tutornote-windows-app)
+- **[Turano.ai](https://turano.ai)**
 
 ### Stack
 
